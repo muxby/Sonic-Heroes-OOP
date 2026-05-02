@@ -1,2 +1,2 @@
-# sonic_heroes_game_oop_cpp
-A fan-made Sonic Heroes game developed in C++ using Object-Oriented Programming with custom mechanics and character control.          
+# Sonic Heroes
+Sonic Heroes is a classical emulator based game. It is one of the most played game providing pure nostalgic vibes. The Project implements the Sonic Heroes in Pure C++ using the concept of the OOP and Data Structure.
